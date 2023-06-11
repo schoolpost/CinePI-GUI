@@ -1,0 +1,2 @@
+/usr/bin/ar qc libui.a CMakeFiles/ui.dir/ui.c.o CMakeFiles/ui.dir/ui_events.c.o CMakeFiles/ui.dir/ui_font_MonoFont.c.o CMakeFiles/ui.dir/ui_font_extraSymbols.c.o CMakeFiles/ui.dir/ui_helpers.c.o
+/usr/bin/ranlib libui.a

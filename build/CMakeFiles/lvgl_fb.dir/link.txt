@@ -1,0 +1,1 @@
+/usr/bin/cc -pthread -rdynamic CMakeFiles/lvgl_fb.dir/main.c.o -o lvgl_fb  lib/liblvgl.a lib/liblv_drivers.a ui/libui.a -li2c -lhiredis lib/liblvgl.a -lwayland-client -lwayland-cursor -lxkbcommon 
